@@ -1,0 +1,15 @@
+executions:
+1. execute the pom.xml using mvn compile install test
+
+Implementation:
+1. Data Driven Framework.(using Apache POI)
+2. Used testNG.
+3. Pom.xml->Testng.Xml
+4. Page Obkject Model Followed Using page Factory for Page class
+5. Common class used for common functionality
+6. Wait used for common wait functionality
+7. Properties file used for common information(user driven)
+
+Note:
+I dont find the third test case in UI.
+
